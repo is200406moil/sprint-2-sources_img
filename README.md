@@ -48,4 +48,4 @@
 * Файловая структура проекта по правилам Nested БЭМ
 
 ## Ссылка на сайт:
-[Добавьте ссылку после публикации на GitHub Pages]
+https://is200406moil.github.io/sprint-2-sources_img/index.html
